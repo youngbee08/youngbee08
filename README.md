@@ -1,20 +1,5 @@
 <h1 align="center">👨‍💻 Bamitale Abdul-Azeem Irebami</h1>
-<h3 align="center">aka <b>ZENITH DEV</b> — Full-Stack Developer</h3>
-
-<p align="center">
-  <a href="https://eloquenceedge.vercel.app" target="_blank">
-    🌐 Recent Project
-  </a> •
-  <a href="https://github.com/youngbee08" target="_blank">
-    🐙 GitHub
-  </a> •
-  <a href="https://x.com/zenithdevtech" target="_blank">
-    X
-  </a> •
-  <a href="mailto:irebamibamitale@gmail.com">
-    📧 Email
-  </a>
-</p>
+<h3 align="center"><b>ZENITH DEV</b> — Full-Stack Developer</h3>
 
 ---
 
@@ -55,7 +40,7 @@ I'm a passionate web developer with a strong focus on building useful, responsiv
   <a href="https://x.com/zenithdevtech" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:irebamibamitale@gmail.com">
+  <a href="mailto:youngbeeh08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
   <a href="https://eloquenceedge.vercel.app" target="_blank">
@@ -65,6 +50,6 @@ I'm a passionate web developer with a strong focus on building useful, responsiv
 
 ---
 
-> _“Code is not just syntax. It’s creativity, communication, and impact.”_
+> _“Embrace the world with technology.”_
 
 ---
