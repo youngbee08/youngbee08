@@ -26,16 +26,19 @@
 I'm a passionate web developer with a strong focus on building useful, responsive, and interactive web apps. I enjoy turning creative ideas into real-world solutions that help people learn, build, and grow.
 
 ### 🔧 Currently Working On
+- **Flow Unit** – A Task Management app.
+
+### ✔ Top Projects
 - **Prompt2Play** – AI-powered video generator
-- **Eloquence Edge** – English language learning platform
+- **PayVora** – Banking app
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/youngbee08" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" />
+  <a href="https://tiktok.com/@zenithdevtech" target="_blank">
+    <img src="https://img.shields.io/badge/Tiktok-100000?logo=tiktok&logoColor=white" />
   </a>
   <a href="https://x.com/zenithdevtech" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
@@ -43,7 +46,7 @@ I'm a passionate web developer with a strong focus on building useful, responsiv
   <a href="mailto:youngbeeh08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="https://eloquenceedge.vercel.app" target="_blank">
+  <a href="https://bamitaleabdulazeem.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white" />
   </a>
 </p>
