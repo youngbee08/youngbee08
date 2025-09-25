@@ -1,11 +1,11 @@
-<h1 align="center">👨‍💻 Bamitale Abdul-Azeem Irebami</h1>
+<h1 align="center">👨‍💻 Bamitale Abdulazeem</h1>
 <h3 align="center"><b>ZENITH DEV</b> — Full-Stack Developer</h3>
 
 ---
 
 ## 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
@@ -21,22 +21,39 @@
 
 ---
 
+## 📊 GitHub Contributions & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youngbee08&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youngbee08&theme=radical" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngbee08&layout=compact&theme=radical" alt="Top languages" />
+</p>
+
+---
+
 ## 📘 About Me
 
-I'm a passionate web developer with a strong focus on building useful, responsive, and interactive web apps. I enjoy turning creative ideas into real-world solutions that help people learn, build, and grow.
+I'm a passionate full-stack developer with a strong focus on building scalable, responsive, and interactive applications. I enjoy turning creative ideas into real-world solutions that empower users to learn, build, and grow.
 
 ### 🔧 Currently Working On
-- **Flow Unit** – A Task Management app.
+- **Flow Unit** – A Task Management App.
 
-### ✔ Top Projects
+### ✔ Featured Projects
 - **Prompt2Play** – AI-powered video generator
 - **PayVora** – Banking app
+- **Eloquence Edge** – English learning web app
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://tiktok.com/@zenithdevtech" target="_blank">
     <img src="https://img.shields.io/badge/Tiktok-100000?logo=tiktok&logoColor=white" />
   </a>
@@ -49,10 +66,11 @@ I'm a passionate web developer with a strong focus on building useful, responsiv
   <a href="https://bamitaleabdulazeem.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?logo=vercel&logoColor=white" />
   </a>
+  <a href="https://github.com/youngbee08" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 > _“Embrace the world with technology.”_
-
----
