@@ -73,4 +73,4 @@ I'm a passionate full-stack developer with a strong focus on building scalable, 
 
 ---
 
-> _“Embrace the world with technology.”_
+> _“Embrace the world with technology!”_
