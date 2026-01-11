@@ -11,7 +11,7 @@
 
 <p align="center">
   I build scalable, responsive, and user-focused web applications.<br/>
-  Passionate about turning ideas into reliable products that solve real problems.
+  Passionate about turning ideas into reliable products that solve real problems
 </p>
 
 ---
