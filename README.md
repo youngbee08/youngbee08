@@ -97,5 +97,5 @@ Responsive recreation of a premium landing page.
 ---
 
 <p align="center">
-  <strong>“Embrace the world with technology”</strong>
+  <strong>“Embrace the world with technology.”</strong>
 </p>
