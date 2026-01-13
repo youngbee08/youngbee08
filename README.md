@@ -83,11 +83,11 @@ Premium landing page recreation.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-xi-85.vercel.app/api?username=youngbee08&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-ten-xi-85.vercel.app/api?username=youngbee08&show_icons=true&theme=dracula&hide_border=true&count_private=true&v=2" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-xi-85.vercel.app/api/top-langs/?username=youngbee08&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats-ten-xi-85.vercel.app/api/top-langs/?username=youngbee08&layout=compact&theme=dracula&hide_border=true&v=2" />
 </p>
 
 <p align="center">
