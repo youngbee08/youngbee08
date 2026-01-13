@@ -45,7 +45,7 @@
 ## 🔧 Currently Building
 
 ### **FlowUnit (LIVE 🚀)**
-A modern **PWA project management platform** built for clarity, speed, and productivity.  
+A modern **PWA project management platform** focused on productivity, clarity, and team efficiency.  
 Users can install it directly like a mobile app for seamless access.
 
 🔗 **Live:** https://flowunitapp.vercel.app
@@ -55,7 +55,7 @@ Users can install it directly like a mobile app for seamless access.
 ## 🌟 Featured Projects
 
 ### **Prompt2Play**
-AI-powered video generator converting text prompts into cinematic videos.  
+AI-powered video generator that converts text prompts into cinematic videos.  
 **Tech:** React, Node.js, Express, MongoDB, JWT, Cohere AI, Stable Diffusion, RunwayML, Cloudinary  
 🔗 [Live](https://prompt2-play-client.vercel.app) · [Server](https://github.com/youngbee08/Prompt2Play_Server)
 
@@ -78,11 +78,8 @@ Premium landing page recreation.
 
 ## 📊 GitHub Activity
 
-> If stats are not visible, GitHub may be blocking external image rendering.  
-> They will appear correctly on most desktop views.
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youngbee08&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=youngbee08&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
@@ -90,7 +87,7 @@ Premium landing page recreation.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngbee08&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=youngbee08&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
