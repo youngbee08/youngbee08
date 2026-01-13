@@ -5,12 +5,12 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Developer · Product Builder · Founder</strong><br/>
+  <strong>Full-Stack Developer · Product Builder </strong><br/>
   React · Next.js · Node.js · Firebase · MongoDB · TypeScript
 </p>
 
 <p align="center">
-  🚀 Founder of FlowUnit (Live PWA) • Building productivity tools for teams
+  🚀 Builder of FlowUnit (Live PWA) • Building productivity tools for teams
 </p>
 
 <p align="center">
