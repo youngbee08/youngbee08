@@ -91,7 +91,7 @@ Premium landing page recreation.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=youngbee08&theme=dracula&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/api?user=youngbee08&theme=dracula&hide_border=true&v=2" />
 </p>
 
 ---
