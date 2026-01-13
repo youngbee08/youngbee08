@@ -10,6 +10,10 @@
 </p>
 
 <p align="center">
+  🚀 Founder of FlowUnit • Shipping real products • Building scalable systems
+</p>
+
+<p align="center">
   I design and build scalable, user-focused digital products.<br/>
   From ideas to production — I turn concepts into real-world solutions.
 </p>
@@ -42,11 +46,11 @@
 
 ---
 
-## 🔧 Currently Building
+## 🔧 Product
 
 ### **FlowUnit (LIVE 🚀)**
 A modern **PWA project management platform** focused on productivity, clarity, and team efficiency.  
-Users can install it directly like a mobile app for seamless access.
+Installable like a mobile app for seamless access.
 
 🔗 **Live:** https://flowunitapp.vercel.app
 
@@ -55,7 +59,7 @@ Users can install it directly like a mobile app for seamless access.
 ## 🌟 Featured Projects
 
 ### **Prompt2Play**
-AI-powered video generator that converts text prompts into cinematic videos.  
+AI-powered video generator converting text prompts into cinematic videos.  
 **Tech:** React, Node.js, Express, MongoDB, JWT, Cohere AI, Stable Diffusion, RunwayML, Cloudinary  
 🔗 [Live](https://prompt2-play-client.vercel.app) · [Server](https://github.com/youngbee08/Prompt2Play_Server)
 
@@ -79,15 +83,15 @@ Premium landing page recreation.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=youngbee08&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats-ten-xi-85.vercel.app/api?username=youngbee08&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-ten-xi-85.vercel.app/api/top-langs/?username=youngbee08&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=youngbee08&theme=dracula&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=youngbee08&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 ---
