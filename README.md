@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bamitale Abdul-Azeem Irebami
+# 👋 Hi, I’m Bamitale Abdul-Azeem Irebami  
 
 <p align="center">
   <img src="https://pbs.twimg.com/profile_images/1981108189958438912/VCXHkFIK.jpg" width="180" style="border-radius:50%" />
@@ -10,13 +10,21 @@
 </p>
 
 <p align="center">
-  🚀 Founder of FlowUnit • Shipping real products • Building scalable systems
+  🚀 Founder of FlowUnit (Live PWA) • Building productivity tools for teams
 </p>
 
 <p align="center">
   I design and build scalable, user-focused digital products.<br/>
   From ideas to production — I turn concepts into real-world solutions.
 </p>
+
+---
+
+## 🧠 What I Do
+- Build production-ready web applications  
+- Design scalable frontend & backend systems  
+- Turn ideas into real products  
+- Ship consistently 🚀  
 
 ---
 
@@ -49,10 +57,14 @@
 ## 🔧 Product
 
 ### **FlowUnit (LIVE 🚀)**
-A modern **PWA project management platform** focused on productivity, clarity, and team efficiency.  
-Installable like a mobile app for seamless access.
+A modern **PWA project management platform** focused on productivity, clarity, and team efficiency.
 
-🔗 **Live:** https://flowunitapp.vercel.app
+**Key highlights:**
+- ✅ Installable PWA (mobile-like experience)  
+- ✅ Team projects, tasks & collaboration  
+- ✅ Built for clarity and speed  
+
+🔗 **Live:** https://flowunitapp.vercel.app  
 
 ---
 
@@ -63,15 +75,21 @@ AI-powered video generator converting text prompts into cinematic videos.
 **Tech:** React, Node.js, Express, MongoDB, JWT, Cohere AI, Stable Diffusion, RunwayML, Cloudinary  
 🔗 [Live](https://prompt2-play-client.vercel.app) · [Server](https://github.com/youngbee08/Prompt2Play_Server)
 
+---
+
 ### **PayVora**
 Modern digital banking UI experience.  
 **Tech:** HTML, CSS, JavaScript  
 🔗 [GitHub](https://github.com/youngbee08/PayVora)
 
+---
+
 ### **Eloquence Edge**
 Interactive English learning platform.  
 **Tech:** HTML, CSS, JavaScript  
 🔗 [Live](https://eloquenceedge.vercel.app) · [Repo](https://github.com/youngbee08/Eloquence-Edge)
+
+---
 
 ### **Bitetoothpastebits**
 Premium landing page recreation.  
@@ -83,15 +101,15 @@ Premium landing page recreation.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-xi-85.vercel.app/api?username=youngbee08&show_icons=true&theme=dracula&hide_border=true&count_private=true&v=2" />
+  <img src="https://github-readme-stats-ten-xi-85.vercel.app/api?username=youngbee08&show_icons=true&theme=dracula&hide_border=true&count_private=true&v=3" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-ten-xi-85.vercel.app/api/top-langs/?username=youngbee08&layout=compact&theme=dracula&hide_border=true&v=2" />
+  <img src="https://github-readme-stats-ten-xi-85.vercel.app/api/top-langs/?username=youngbee08&layout=compact&theme=dracula&hide_border=true&v=3" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/api?user=youngbee08&theme=dracula&hide_border=true&v=2" />
+  <img src="https://streak-stats.demolab.com/api?user=youngbee08&theme=dracula&hide_border=true&v=3" />
 </p>
 
 ---
@@ -104,6 +122,8 @@ Premium landing page recreation.
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:youngbeeh08@gmail.com)
 
 ---
+
+📌 Open to collaboration, internships, freelance and product opportunities.
 
 <p align="center">
   <strong>“Embrace the world with technology.”</strong>
