@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Developer</strong><br/>
+  <strong>Full-Stack Developer · Product Builder · Founder</strong><br/>
   React · Next.js · Node.js · Firebase · MongoDB · TypeScript
 </p>
 
 <p align="center">
-  I build scalable, responsive, and user-focused web applications.<br/>
-  Passionate about turning ideas into reliable products that solve real problems.
+  I design and build scalable, user-focused digital products.<br/>
+  From ideas to production — I turn concepts into real-world solutions.
 </p>
 
 ---
@@ -42,39 +42,47 @@
 
 ---
 
-## 🔧 Currently Working On
-**FlowUnit** — a modern project management platform focused on productivity and clarity.
+## 🔧 Currently Building
+
+### **FlowUnit (LIVE 🚀)**
+A modern **PWA project management platform** built for clarity, speed, and productivity.  
+Users can install it directly like a mobile app for seamless access.
+
+🔗 **Live:** https://flowunitapp.vercel.app
 
 ---
 
 ## 🌟 Featured Projects
 
 ### **Prompt2Play**
-AI-powered video generator that converts text prompts into engaging videos.  
+AI-powered video generator converting text prompts into cinematic videos.  
 **Tech:** React, Node.js, Express, MongoDB, JWT, Cohere AI, Stable Diffusion, RunwayML, Cloudinary  
 🔗 [Live](https://prompt2-play-client.vercel.app) · [Server](https://github.com/youngbee08/Prompt2Play_Server)
 
 ### **PayVora**
-Modern banking and finance web application UI.  
+Modern digital banking UI experience.  
 **Tech:** HTML, CSS, JavaScript  
 🔗 [GitHub](https://github.com/youngbee08/PayVora)
 
 ### **Eloquence Edge**
-Interactive English learning platform with smart learning tools.  
+Interactive English learning platform.  
 **Tech:** HTML, CSS, JavaScript  
 🔗 [Live](https://eloquenceedge.vercel.app) · [Repo](https://github.com/youngbee08/Eloquence-Edge)
 
 ### **Bitetoothpastebits**
-Responsive recreation of a premium landing page.  
+Premium landing page recreation.  
 **Tech:** HTML, CSS, JavaScript  
 🔗 [GitHub](https://github.com/youngbee08/bitetoothpastebits)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
+
+> If stats are not visible, GitHub may be blocking external image rendering.  
+> They will appear correctly on most desktop views.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youngbee08&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=youngbee08&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
