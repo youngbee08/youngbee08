@@ -123,7 +123,7 @@ Premium landing page recreation.
 
 ---
 
-📌 Open to collaboration, internships, freelance and product opportunities
+📌 Open to collaboration, internships, freelance and product opportunities.
 
 <p align="center">
   <strong>“Embrace the world with technology.”</strong>
