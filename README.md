@@ -126,5 +126,5 @@ Premium landing page recreation.
 📌 Open to collaboration, internships, freelance and product opportunities
 
 <p align="center">
-  <strong>“Embrace the world with technology”</strong>
+  <strong>“Embrace the world with technology.”</strong>
 </p>
