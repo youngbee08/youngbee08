@@ -127,4 +127,4 @@ Premium landing page recreation.
 
 <p align="center">
   <strong>“Embrace the world with technology.”</strong>
-</p> 
+</p>
