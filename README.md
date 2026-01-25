@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bamitale Abdulazeem Irebami 
+# 👋 Hi, I’m Bamitale Abdulazeem Irebami
 
 <p align="center">
   <img src="https://pbs.twimg.com/profile_images/1981108189958438912/VCXHkFIK.jpg" width="180" style="border-radius:50%" />
