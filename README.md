@@ -1,9 +1,11 @@
 <div align="center">
+ <a href="https://zenithdevtech.name.ng" target="_blank">
   <img 
     src="https://github.com/user-attachments/assets/f7aa4a17-6ca7-4c57-89a2-95315a96944e" 
     alt="Learn Build Ship" 
     width="480"
   />
+</a>
 
   <h2>Bamitale Abdulazeem Irebami</h2>
 
