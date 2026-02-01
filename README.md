@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://zenithdevtech.name.ng" target="_blank">
+ <a href="https://zenithdevtech.name.ng" target="_blank"
   <img 
     src="https://github.com/user-attachments/assets/f7aa4a17-6ca7-4c57-89a2-95315a96944e" 
     alt="Learn Build Ship" 
@@ -15,7 +15,7 @@
 
   <p style="max-width: 640px; margin: 0 auto;">
     I build and ship digital products with a focus on clarity, usability, and long-term scalability.
-    My work spans product thinking, interface design, and full-stack engineering through to production.
+    My work spans product thinking, interface design, and full stack engineering through to production.
   </p>
 
   <p style="max-width: 640px; margin: 0 auto;">
