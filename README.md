@@ -26,6 +26,6 @@
   <p>
     <a href="https://zenithdevtech.name.ng">Zenith Dev (Agency)</a> ·
     <a href="https://flowunitapp.vercel.app">FlowUnit</a> ·
-    <a href="https://github.com/youngbee08">GitHu</a>
+    <a href="https://github.com/youngbee08">GitHub</a>
   </p>
 </div>
