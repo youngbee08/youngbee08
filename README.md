@@ -15,7 +15,7 @@
 
   <p style="max-width: 640px; margin: 0 auto;">
     I build and ship digital products with a focus on clarity, usability, and long-term scalability.
-    My work spans product thinking, interface design, and full stack engineering through to production
+    My work spans product thinking, interface design, and full stack engineering through to production.
   </p>
 
   <p style="max-width: 640px; margin: 0 auto;">
