@@ -20,7 +20,7 @@
 
   <p style="max-width: 640px; margin: 0 auto;">
     Founder of <strong>FlowUnit</strong>, a live productivity platform designed to help teams plan,
-    track, and execute work with greater focus and alignment.
+    track, and execute work with greater focus and alignment
   </p>
 
   <p>
